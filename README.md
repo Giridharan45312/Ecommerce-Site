@@ -19,7 +19,7 @@ A full-featured **MERN Stack** fashion e-commerce platform built with performanc
 🔗 [Explore Admin Panel](https://e-commerce-fashion-site-admin.onrender.com)
 
 > ⚠️ **Note:** Admin credentials are available upon request.  
-> 📩 Contact me via [LinkedIn](https://www.linkedin.com/in/gopikrish01) or [Email](mailto:gopi22029.it@rmkec.ac.in)
+> 📩 Contact me via [LinkedIn](https://www.linkedin.com/in/giridharan1) or [Email](mailto:giri22027.it@rmkec.ac.in)
 
 
 ---
@@ -183,8 +183,8 @@ e-commerce-fashion-app/
 
 Interested in learning more or collaborating?
 
-* 🔗 [LinkedIn – GopiKrish01](https://www.linkedin.com/in/gopikrish01)
-* 📧 [gopi22029.it@rmkec.ac.in](mailto:gopi22029.it@rmkec.ac.in)
+* 🔗 [LinkedIn – GopiKrish01](https://www.linkedin.com/in/giridharan1)
+* 📧 [gopi22029.it@rmkec.ac.in](mailto:giri22027.it@rmkec.ac.in)
 
 ---
 
